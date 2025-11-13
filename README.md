@@ -25,7 +25,7 @@ A simple web-based platform to help users report, track, and claim lost and foun
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/akash199699/Lost-and-Found-Management-System.git
+   git clone https://github.com/b-akash-krishna/Lost-and-Found-Management-System.git
    cd Lost-and-Found-Management-System
    ````
 
